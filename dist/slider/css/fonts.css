@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'rpt';
+    src: url('../webfonts/rpt/rpt-Regular.woff2') format('woff2'),
+        url('../webfonts/rpt/rpt-Regular.woff') format('woff'),
+        url('../webfonts/rpt/rpt-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'rpt';
+    src: url('../webfonts/rpt/rpt-Bold.woff2') format('woff2'),
+        url('../webfonts/rpt/rpt-Bold.woff') format('woff'),
+        url('../webfonts/rpt/rpt-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
